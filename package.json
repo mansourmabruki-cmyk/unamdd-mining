@@ -1,0 +1,20 @@
+{
+  "name": "unamdd-mining",
+  "displayName": "UNAMDD Mining",
+  "version": "1.0.0",
+  "description": "APK de cartographie minière hors-ligne du cadastre CAMI (RDC) — UNAMDD Mining Sarl",
+  "author": "Ir MANSOUR MAB — Chef du bureau technique, UNAMDD Mining Sarl",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cordova-android": "^12.0.1",
+    "cordova-plugin-geolocation": "^4.1.0",
+    "cordova-plugin-whitelist": "^1.3.5"
+  },
+  "cordova": {
+    "platforms": ["android"],
+    "plugins": {
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-whitelist": {}
+    }
+  }
+}

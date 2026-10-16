@@ -1,0 +1,15 @@
+# Cordova / Node
+node_modules/
+platforms/
+plugins/
+*.apk
+*.keystore
+.gradle/
+build/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
